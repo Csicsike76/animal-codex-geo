@@ -1,0 +1,81 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1000",
+    "ratingValue": "4.5"
+  },
+  "alternateName": "AnimalCodex",
+  "applicationCategory": "PetsAndAnimals",
+  "author": {
+    "@type": "Organization",
+    "name": "FokusMester"
+  },
+  "description": "Comprehensive animal encyclopedia application with detailed species information, high-quality images, and multilingual support. Perfect for pet owners, students, and animal enthusiasts.",
+  "downloadUrl": "https://play.google.com/store/apps/details?id=com.fokuszmester.animalcodex",
+  "featureList": [
+    "Comprehensive animal database",
+    "Species information and facts",
+    "High-quality animal images",
+    "Advanced search functionality",
+    "Offline data access",
+    "Multilingual support (31 languages)",
+    "Favorites and bookmarks"
+  ],
+  "inLanguage": [
+    "hu",
+    "ro",
+    "en",
+    "de",
+    "fr",
+    "es",
+    "it",
+    "pt",
+    "ru",
+    "pl",
+    "cs",
+    "sk",
+    "sl",
+    "hr",
+    "bg",
+    "sr",
+    "mk",
+    "tr",
+    "el",
+    "uk",
+    "fi",
+    "sv",
+    "no",
+    "da",
+    "nl",
+    "et",
+    "lv",
+    "lt",
+    "mt",
+    "cy",
+    "ga",
+    "is"
+  ],
+  "keywords": [
+    "animals",
+    "encyclopedia",
+    "species information",
+    "pet app",
+    "wildlife",
+    "biology",
+    "nature",
+    "educational"
+  ],
+  "name": "Animal Codex",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "operatingSystem": "Android",
+  "publisher": {
+    "@type": "Organization",
+    "name": "FokusMester"
+  }
+}
